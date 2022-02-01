@@ -1,0 +1,41 @@
+<h1>
+    Mesut Özdemir
+</h1>
+<h3>
+    Hakkımda
+</h3>
+<p>
+    Merhaba, Ben <span style="color: aqua;">Mesut Özdemir</span>. Kocaeli'nde yaşıyorum. <em>1983</em> doğumluyum. <strong>Sabiha Gökçen Havalimanı</strong> 'nda öçalışıyor.
+</p>
+<h3>
+    İlgi Alanlarım
+</h3>
+<div>
+<ol>
+    <li>Filmler
+        <ul>
+            <li><a href="https://www.imdb.com/video/vi513779993?playlistId=tt0418279&ref_=tt_pr_ov_vi">Trasnformers</a></li>
+            <li><a href="https://www.imdb.com/video/vi1223668505?playlistId=tt2938956&ref_=tt_pr_ov_vi">Transporter</a></li>
+            <li><a href="https://www.imdb.com/video/vi3997808665?playlistId=tt7238392&ref_=tt_pr_ov_vi">Taxi</a></li>
+        </ul>
+    </li>
+    <li>Diziler
+        <ul>
+            <li><a href="hhttps://www.imdb.com/title/tt12979628/?ref_=fn_al_tt_1">Yargı</a></li>
+            <li><a href="https://www.imdb.com/video/vi1035774745?playlistId=tt1632701&ref_=tt_ov_vi">Suits</a></li>
+            <li><a href="https://www.imdb.com/title/tt12694046/?ref_=fn_al_tt_4">Masumlar Apartmanı</a></li>
+        </ul>
+    </li>
+    <li>Kitaplar
+        <ul>
+            <li>Html'ye Giriş</li>
+            <li>C##</li>
+            <li>Javascript</li>
+        </ul>
+    </li>
+</ol>
+</div>
+<p>
+    Sevdiğim Filmlerden Taxi5
+</p>
+<img src="https://i.kanald.com.tr/i/kanald/70/0x0/5e158679267899025c2c4ee9" alt="Taxi5" width="300px">
