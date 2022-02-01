@@ -1,15 +1,20 @@
 <h1>
     Mesut Özdemir
 </h1>
+<hr>
 <h3>
     Hakkımda
 </h3>
+<!-- Kısaca Kendinden Bahset -->
 <p>
-    Merhaba, Ben <span style="color: aqua;">Mesut Özdemir</span>. Kocaeli'nde yaşıyorum. <em>1983</em> doğumluyum. <strong>Sabiha Gökçen Havalimanı</strong> 'nda öçalışıyor.
+    Merhaba, Ben <span style="color: aqua;">Mesut Özdemir</span>. <br> Kocaeli'nde yaşıyorum. <em>1983</em> doğumluyum. <br> <strong>Sabiha Gökçen Havalimanı</strong> 'nda öçalışıyorum. <br> Yazılım <ins> öğrenmeyi ve yapmayı </ins>çok istiyorum.
 </p>
+<hr>
 <h3>
     İlgi Alanlarım
 </h3>
+<hr>
+<!-- Burada Listeler Olacak -->
 <div>
 <ol>
     <li>Filmler
@@ -28,14 +33,17 @@
     </li>
     <li>Kitaplar
         <ul>
-            <li>Html'ye Giriş</li>
-            <li>C##</li>
-            <li>Javascript</li>
+            <li><a href="https://www.goodreads.com/book/show/8148515-html5-for-web-designers?from_search=true&from_srp=true&qid=BLTQkrDiCG&rank=1"> Html'ye Giriş</a></li>
+            <li><a href="https://www.goodreads.com/book/show/2767052-the-hunger-games?from_search=true&from_srp=true&qid=HqemFNm5Bp&rank=1"> The Hunger Games</a></li>
+            <li><a href="https://www.goodreads.com/book/show/2998152-javascript?from_search=true&from_srp=true&qid=itqiJC7kDw&rank=1"> Javascript</a></li>
         </ul>
     </li>
 </ol>
 </div>
+<hr>
 <p>
     Sevdiğim Filmlerden Taxi5
 </p>
+<!-- Burada Bir Resim Olacak -->
 <img src="https://i.kanald.com.tr/i/kanald/70/0x0/5e158679267899025c2c4ee9" alt="Taxi5" width="300px">
+<figcaption>Taxi5 Film Kapağı</figcaption>
